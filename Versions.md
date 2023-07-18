@@ -11,3 +11,7 @@
     * Toggle for shivering when in urge for excretion
     * Time it takes between excretion for cats and ocelots respectively. Default is 24000 ticks (20 minutes)
     * Time it takes to excrete for cats and ocelots respectively. Default is 100 ticks (5 seconds)
+
+## v1.1 (2023-07-19)
+* Fixed
+  * Changed check order for bottom block. Cat/ocelots will now excrete well.

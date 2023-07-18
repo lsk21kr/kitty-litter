@@ -3,7 +3,7 @@ Cats and ocelots excrete on sand converting the sand into suspicious sand.
 
 ## Dev Status
 * **Maintaining**🟩: Implementation completed. Only maintaining for new versions.
-* **Version**: v1.0
+* **Version**: v1.1
 
 ## Compatibility
 * 1.19.4 - 1.20.x (may work in prior versions)
@@ -20,3 +20,4 @@ Cats and ocelots excrete on sand converting the sand into suspicious sand.
 
 ## Version history
 * v1.0: cats and ocelots excrete
+* v1.1: bottom block check order fixed
