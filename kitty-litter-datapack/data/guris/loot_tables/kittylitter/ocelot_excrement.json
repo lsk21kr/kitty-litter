@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:archaeology",
+    "pools": [
+      {
+        "rolls": 1,
+        "bonus_rolls": 0,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "weight": 1,
+            "quality": 1,
+            "name": "minecraft:cocoa_beans"
+          },
+          {
+            "type": "minecraft:item",
+            "weight": 3,
+            "name": "minecraft:brown_dye",
+            "functions": [
+              {
+                "function": "minecraft:set_name",
+                "entity": "this",
+                "name": "Faecal Matter"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

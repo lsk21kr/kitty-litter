@@ -1,0 +1,31 @@
+{
+    "display": {
+        "title": "Kitty Litter v1.0",
+        "description": 
+            [
+                {
+                    "text": "• Cats excrete on sand and make suspicious sand out of it."
+                },
+                {
+                    "text": "\n\n• Ocelots in jungle too but occasionaly leave a different item in the sand.",
+                    "color": "yellow"
+                },
+                {
+                    "text": "\n\n• Check out for updates on https://modrinth.com/user/lsk21kr",
+                    "color": "blue"
+                }
+            ],
+        "icon": {
+            "item": "minecraft:player_head",
+            "nbt": "{SkullOwner:{Id:[I;0,0,0,0],Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGZkMTBjOGU3NWY2NzM5OGM0NzU4N2QyNWZjMTQ2ZjMxMWMwNTNjYzVkMGFlYWI4NzkwYmNlMzZlZTg4ZjVmOCJ9fX0=\"}]}}}"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:guris",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
