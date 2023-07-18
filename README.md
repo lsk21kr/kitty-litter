@@ -12,7 +12,7 @@ Cats and ocelots excrete on sand converting the sand into suspicious sand.
 ## Features
 * Cats excrete on sand and make suspicious sand out of it.
 * Ocelots in jungle biome too but occasionaly leave a different item in the sand.
-* Settings to change cooldown and delay for cats and ocelots respectively. (<u>/function guris:kittylitter/settings</u> to see)
+* Settings to change cooldown and delay for cats and ocelots respectively. You can also toggle shivering. (<u>/function guris:kittylitter/settings</u> to see)
 * Cat/ocelots with NoAI:1b will be ignored. If you want to bypass, add <u>guris.kittylitter</u> tag to it.
 
 ## References
