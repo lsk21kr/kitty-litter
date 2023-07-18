@@ -16,7 +16,7 @@ Cats and ocelots excrete on sand converting the sand into suspicious sand.
 * Cat/ocelots with NoAI:1b will be ignored. If you want to bypass, add <u>guris.kittylitter</u> tag to it.
 
 ## References
-* [Moggla's Timber](https://www.planetminecraft.com/data-pack/timber-datapack/) data pack for settings menu design, item damaging
+* [Moggla's Timber](https://www.planetminecraft.com/data-pack/timber-datapack/) data pack for settings menu design
 
 ## Version history
 * v1.0: cats and ocelots excrete
