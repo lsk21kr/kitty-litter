@@ -15,3 +15,7 @@
 ## v1.1 (2023-07-19)
 * Fixed
   * Changed check order for bottom block. Cat/ocelots will now excrete well.
+
+## v1.2 (2023-07-19)
+* Fixed
+  * Added bottom block finding mechanism when sitting on the edge of the sand block.

@@ -9,7 +9,7 @@ execute if score @s guris.kittylitter_status matches 0 run data modify entity @s
 
 # change block
 execute unless predicate guris:kittylitter/on_sand run function guris:kittylitter/dump_failed_cat
-execute if predicate guris:kittylitter/on_sand run setblock ~ ~-1 ~ minecraft:suspicious_sand{LootTable:"guris:kittylitter/cat_excrement"} replace
+execute if predicate guris:kittylitter/on_sand run function guris:kittylitter/dump_bury_cat
 
 # reset sitting score
 scoreboard players reset @s guris.kittylitter_status
